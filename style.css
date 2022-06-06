@@ -63,7 +63,7 @@ main_container{
 #shopping_items_drop_down_list{
   color: black;
   background-color: white;
-  width: 4em;
+  width: 3em;
   height: 2.92em;
   border-radius: 2% ;
   border: 0.1px solid rgb(240, 235, 235);
@@ -174,9 +174,14 @@ main_container{
   margin-bottom: 1em;
 }
 
+.margin_top{
+  margin-top: 1em;
+}
+
 .small_text{
   font-size: 15px;
   font-weight: 100;
+  text-align: center;
 }
 
 .beauty_image_container{
@@ -187,3 +192,4 @@ main_container{
   height: 15em;
   width: 15em;
 }
+
